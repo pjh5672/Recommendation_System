@@ -20,6 +20,7 @@ It covers the following areas.
 
 
 ### :memo: References  
+- **[패스트캠퍼스](https://fastcampus.co.kr)
 - **[파이썬 머신러닝 완벽가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391386)**     
 
 
@@ -27,3 +28,4 @@ It covers the following areas.
 | Date | Commit Message |
 |:----:|:----:|
 | Apr/06/2021 | new creation, first commit |
+| Apr/24/2021 | movielens dataset EDA process updates |
