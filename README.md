@@ -28,4 +28,4 @@ It covers the following areas.
 | Date | Commit Message |
 |:----:|:----:|
 | Apr/06/2021 | new creation, first commit |
-| Apr/24/2021 | movielens dataset EDA process updates |
+| Apr/24/2021 | movielens dataset EDA process, contents_based_recommender using TF-IDF updates |
