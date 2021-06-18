@@ -20,7 +20,7 @@ It covers the following areas.
 
 
 ### :memo: References  
-- **[패스트캠퍼스](https://fastcampus.co.kr)
+- **[패스트캠퍼스](https://fastcampus.co.kr)**
 - **[파이썬 머신러닝 완벽가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791158391386)**     
 
 
